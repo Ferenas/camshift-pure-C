@@ -1,0 +1,43 @@
+﻿生成启动时间为 2020/2/13 22:16:59。
+     1>项目“C:\Users\张菲\Desktop\跟踪算法实现\camshift\camshift\camshift.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\camshift.h(41): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\camshift.h(53): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\camshift.h(57): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\camshift.h(61): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\camshift.h(77): warning C4133: “函数”: 从“int *”到“float *”的类型不兼容
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\camshift.h(122): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\camshift.h(129): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\camshift.h(133): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\camshift.h(137): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\camshift.h(141): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\camshift.h(145): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\camshift.h(149): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\camshift.h(161): warning C4098: “threshold”:“void”函数返回值
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\camshift.h(251): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\camshift.h(291): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\camshift.h(292): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\camshift.h(293): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\camshift.h(294): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\main.c(94): warning C4047: “函数”:“int *”与“int [48][43]”的间接级别不同
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\main.c(94): warning C4024: “rgb2hsv_all”: 形参和实参 4 的类型不同
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\main.c(94): warning C4047: “函数”:“int *”与“float [48][43]”的间接级别不同
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\main.c(94): warning C4024: “rgb2hsv_all”: 形参和实参 5 的类型不同
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\main.c(94): warning C4024: “rgb2hsv_all”: 形参和实参 6 的类型不同
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\main.c(105): warning C4047: “函数”:“int *”与“int [96][128]”的间接级别不同
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\main.c(105): warning C4024: “rgb2hsv_all”: 形参和实参 4 的类型不同
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\main.c(105): warning C4047: “函数”:“int *”与“float [96][128]”的间接级别不同
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\main.c(105): warning C4024: “rgb2hsv_all”: 形参和实参 5 的类型不同
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\main.c(105): warning C4024: “rgb2hsv_all”: 形参和实参 6 的类型不同
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\main.c(79): warning C4715: “read2array”: 不是所有的控件路径都返回值
+     1>c:\users\张菲\desktop\跟踪算法实现\camshift\camshift\main.c(41): warning C4715: “read2array_temp”: 不是所有的控件路径都返回值
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\张菲\Desktop\跟踪算法实现\camshift\Debug\camshift.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\张菲\Desktop\跟踪算法实现\camshift\Debug\camshift.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\张菲\Desktop\跟踪算法实现\camshift\Debug\camshift.lib" /MACHINE:X86 Debug\main.obj
+         camshift.vcxproj -> C:\Users\张菲\Desktop\跟踪算法实现\camshift\Debug\camshift.exe
+     1>已完成生成项目“C:\Users\张菲\Desktop\跟踪算法实现\camshift\camshift\camshift.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.73
